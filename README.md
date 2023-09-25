@@ -1,28 +1,3 @@
-# Impressora 3D Brasil (Em construção)
-
-Este repositório foi criado com o objetivo de reunir links de lojas de filamentos e/ou peças, tutoriais, dicas ou qualquer outro conteúdo que seja interessante para profissionais e amantes do mundo da impressão 3D.
-
-
-
-
-## Importante
-
-Este reposítório foi criado e é mantido pela comunidade. Por isso, nós **NÃO** nos responsabilizamos pelo conteúdo aqui publicado, e nem por quaisquer problemas que venham a ter com as lojas aqui citadas. Recomendamos que pesquisem a reputação da loja antes de realizar a compra e qualquer ação tomada, é por sua conta e risco.
-
-## Como colaborar (adicionando ou corrigindo itens desta lista)
-
-1. Se você não tiver uma conta no Github, crie uma clicando em **Sign Up** ou se já tiver uma conta, clique em **Sign In** para fazer login, no topo desta página.
-2. <a href="https://github.com/rafaelcruzpb/Impressora3DBrasil/blob/master/README.md" target="_blank">Clique aqui</a> para acessar o arquivo a ser editado.
-3. Logo acima do conteudo da pagina, no lado direito e ao lado do botão **History**, clique na caneta de edição *Edit this file*.
-4. Edite o arquivo.
-5. Ao terminar a edição, desça até o fim da página, descreva sua edição no primeiro campo de texto abaixo de **Propose file changes** (por exemplo: "Adicionado loja3d.com")
-6. Clique no botão **Propose file change**
-7. Clique no botão **Create pull request**
-8. Confirme clicando no **Create pull request** novamente.
-9. Pronto! Suas modificações serão publicadas assim que forem aprovadas por um administrador.
-
-Sumário
-=================
 
    * [Filamentos](#filamentos)
    * [Impressoras 3D](#impressoras-3d)
